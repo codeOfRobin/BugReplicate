@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "bc973c5311ce3db3f01a9fcde027fb11fa2254bf",
+          "version": "4.6.0"
+        }
+      },
+      {
+        "package": "Decodable",
+        "repositoryURL": "https://github.com/Anviking/Decodable.git",
+        "state": {
+          "branch": null,
+          "revision": "ab84baf213f326a95ef16be6ea74430c56d3b542",
+          "version": "0.6.0"
+        }
+      },
+      {
+        "package": "KayakoSDKSwift",
+        "repositoryURL": "/Users/robinmalhotra/Developer/Kayako/kayako-sdk-swift-4/.git",
+        "state": {
+          "branch": "xcodegen",
+          "revision": "94334f8eb30fc888280965f31b1419980a8ee32b",
+          "version": null
+        }
+      },
+      {
+        "package": "Networking",
+        "repositoryURL": "https://github.com/3lvis/Networking.git",
+        "state": {
+          "branch": null,
+          "revision": "57b5a3283d1480c6604ec3242ddcdfd6d59c3ba6",
+          "version": "4.1.1"
+        }
+      },
+      {
+        "package": "SwiftPM",
+        "repositoryURL": "https://github.com/apple/swift-package-manager.git",
+        "state": {
+          "branch": null,
+          "revision": "90abb3c4c9415afee34291e66e655c58a1902784",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Unbox",
+        "repositoryURL": "https://github.com/JohnSundell/Unbox.git",
+        "state": {
+          "branch": null,
+          "revision": "17ad6aa1cc2f1efa27a0bbbdb66f79796708aa95",
+          "version": "2.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
