@@ -41,7 +41,7 @@ do {
 			let twoFACode = readLine(strippingNewline: true)
 			loginClient.makeOTPRequest(url, twoFAOTP: twoFACode!, twoFAToken: reAuthToken, fingerprint: fingerprint, completionHandler: { (twoFAResult) in
 				if case .success = twoFAResult.resultState, let sessionID = twoFAResult.sessionID {
-					let sessionHandler = SessionHandler.init(baseURL: url, fingerprint: UUID(), sessionID: sessionID, rememberMeToken: "", onReloading: { _ in })
+					let sessionHandler = SessionHandler.init(baseURL: url, fingerprint: fingerprint, sessionID: sessionID, rememberMeToken: "", onReloading: { _ in })
 					Alamofire.SessionManager.default.adapter = sessionHandler
 					let client = Client(baseURL: url)
 					let req = client.getAllViews(offset: 0, limit: 0) {
@@ -56,7 +56,8 @@ do {
 					print("🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨  Request to test with 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨")
 					print(req.debugDescription)
 				} else {
-					print((loginResult.error as NSError?)?.userInfo as Any)
+					print(twoFAResult.error)
+					print((twoFAResult.error as NSError?)?.userInfo as Any)
 				}
 			})
 		} else {
