@@ -21,20 +21,11 @@
       },
       {
         "package": "KayakoSDKSwift",
-        "repositoryURL": "/Users/robinmalhotra/Developer/Kayako/kayako-sdk-swift-4/.git",
+        "repositoryURL": "git@github.com:kayako/kayako-sdk-swift.git",
         "state": {
           "branch": "xcodegen",
-          "revision": "94334f8eb30fc888280965f31b1419980a8ee32b",
+          "revision": "86020b747dfd7fbd8f891953646593c7fe36797b",
           "version": null
-        }
-      },
-      {
-        "package": "Networking",
-        "repositoryURL": "https://github.com/3lvis/Networking.git",
-        "state": {
-          "branch": null,
-          "revision": "57b5a3283d1480c6604ec3242ddcdfd6d59c3ba6",
-          "version": "4.1.1"
         }
       },
       {
