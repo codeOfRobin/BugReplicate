@@ -215,154 +215,154 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4253E7B31FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943AE1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "KayakoSDKSwift::KayakoSDKSwift";
 			remoteInfo = KayakoSDKSwift;
 		};
-		4253E7B41FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943AF1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Unbox::Unbox";
 			remoteInfo = Unbox;
 		};
-		4253E7B51FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B01FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Decodable::Decodable";
 			remoteInfo = Decodable;
 		};
-		4253E7B61FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B11FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Alamofire::Alamofire";
 			remoteInfo = Alamofire;
 		};
-		4253E7B71FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B21FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Unbox::Unbox";
 			remoteInfo = Unbox;
 		};
-		4253E7B81FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B31FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Decodable::Decodable";
 			remoteInfo = Decodable;
 		};
-		4253E7B91FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B41FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Alamofire::Alamofire";
 			remoteInfo = Alamofire;
 		};
-		4253E7BA1FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B51FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::Utility";
 			remoteInfo = Utility;
 		};
-		4253E7BB1FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B61FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::Basic";
 			remoteInfo = Basic;
 		};
-		4253E7BC1FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B71FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::POSIX";
 			remoteInfo = POSIX;
 		};
-		4253E7BD1FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B81FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::libc";
 			remoteInfo = libc;
 		};
-		4253E7BE1FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943B91FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::clibc";
 			remoteInfo = clibc;
 		};
-		4253E7BF1FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943BA1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::clibc";
 			remoteInfo = clibc;
 		};
-		4253E7C01FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943BB1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::libc";
 			remoteInfo = libc;
 		};
-		4253E7C11FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943BC1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::clibc";
 			remoteInfo = clibc;
 		};
-		4253E7C21FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943BD1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::POSIX";
 			remoteInfo = POSIX;
 		};
-		4253E7C31FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943BE1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::libc";
 			remoteInfo = libc;
 		};
-		4253E7C41FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943BF1FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::clibc";
 			remoteInfo = clibc;
 		};
-		4253E7C51FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943C01FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::Basic";
 			remoteInfo = Basic;
 		};
-		4253E7C61FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943C11FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::POSIX";
 			remoteInfo = POSIX;
 		};
-		4253E7C71FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943C21FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftPM::libc";
 			remoteInfo = libc;
 		};
-		4253E7C81FFB519100DF3E9F /* PBXContainerItemProxy */ = {
+		421943C31FFDE5AE006F1AC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
@@ -1769,112 +1769,112 @@
 		OBJ_286 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "KayakoSDKSwift::KayakoSDKSwift" /* KayakoSDKSwift */;
-			targetProxy = 4253E7B31FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943AE1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_288 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Unbox::Unbox" /* Unbox */;
-			targetProxy = 4253E7B71FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B21FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_290 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Decodable::Decodable" /* Decodable */;
-			targetProxy = 4253E7B81FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B31FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_292 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Alamofire::Alamofire" /* Alamofire */;
-			targetProxy = 4253E7B91FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B41FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_294 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::Utility" /* Utility */;
-			targetProxy = 4253E7BA1FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B51FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_296 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::Basic" /* Basic */;
-			targetProxy = 4253E7C51FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943C01FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_298 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::POSIX" /* POSIX */;
-			targetProxy = 4253E7C61FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943C11FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_300 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::libc" /* libc */;
-			targetProxy = 4253E7C71FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943C21FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_302 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::clibc" /* clibc */;
-			targetProxy = 4253E7C81FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943C31FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_351 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Unbox::Unbox" /* Unbox */;
-			targetProxy = 4253E7B41FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943AF1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_352 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Decodable::Decodable" /* Decodable */;
-			targetProxy = 4253E7B51FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B01FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_353 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Alamofire::Alamofire" /* Alamofire */;
-			targetProxy = 4253E7B61FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B11FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_467 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::Basic" /* Basic */;
-			targetProxy = 4253E7BB1FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B61FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_468 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::POSIX" /* POSIX */;
-			targetProxy = 4253E7C21FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943BD1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_469 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::libc" /* libc */;
-			targetProxy = 4253E7C31FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943BE1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_470 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::clibc" /* clibc */;
-			targetProxy = 4253E7C41FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943BF1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_514 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::POSIX" /* POSIX */;
-			targetProxy = 4253E7BC1FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B71FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_515 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::libc" /* libc */;
-			targetProxy = 4253E7C01FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943BB1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_516 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::clibc" /* clibc */;
-			targetProxy = 4253E7C11FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943BC1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_535 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::libc" /* libc */;
-			targetProxy = 4253E7BD1FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B81FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_536 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::clibc" /* clibc */;
-			targetProxy = 4253E7BF1FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943BA1FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 		OBJ_544 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftPM::clibc" /* clibc */;
-			targetProxy = 4253E7BE1FFB519100DF3E9F /* PBXContainerItemProxy */;
+			targetProxy = 421943B91FFDE5AE006F1AC3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 

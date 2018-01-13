@@ -16,13 +16,14 @@ import Alamofire //
 
 
 
-let parser = ArgumentParser(commandName: "replicate", usage: "--url your-kayako-url --email your-email --password your-password --otp your-otp", overview: "Replicating https://kayako.atlassian.net/browse/PDM-11981")
+let parser = ArgumentParser(commandName: "replicate", usage: "--url your-kayako-url --email your-email --password your-password --otp your-otp", overview: "Replicating a bug")
 
 let kURL = parser.add(option: "--url", shortName: "-u", kind: String.self, usage: "Your Kayako URL")
 let kEmail = parser.add(option: "--email", shortName: "-e", kind: String.self, usage: "Your Kayako email")
 let kPassword = parser.add(option: "--password", shortName: "-p", kind: String.self, usage: "Your Kayako password")
 
-let args = Array(CommandLine.arguments.dropFirst())
+//let args = Array(CommandLine.arguments.dropFirst())
+let args = Array(["--url=kayako-mobile-testing.kayako.com", "--email=robin.malhotra@kayako.com", "--password=TROOLLLLLL"])
 
 do {
 	let result = try parser.parse(args)
@@ -39,7 +40,7 @@ do {
 		} else if loginResult.resultState == .needs2FA, let reAuthToken = loginResult.reAuthToken {
 			print("please enter 2FA code")
 			let twoFACode = readLine(strippingNewline: true)
-			loginClient.makeOTPRequest(url, twoFAOTP: twoFACode!, twoFAToken: reAuthToken, fingerprint: fingerprint, completionHandler: { (twoFAResult) in
+			loginClient.makeOTPRequest(url, email: email, password: password, twoFAOTP: twoFACode!, twoFAToken: reAuthToken, fingerprint: fingerprint, completionHandler: { (twoFAResult) in
 				if case .success = twoFAResult.resultState, let sessionID = twoFAResult.sessionID {
 					let sessionHandler = SessionHandler.init(baseURL: url, fingerprint: fingerprint, sessionID: sessionID, rememberMeToken: "", onReloading: { _ in })
 					Alamofire.SessionManager.default.adapter = sessionHandler
